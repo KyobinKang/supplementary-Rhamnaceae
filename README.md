@@ -1,9 +1,11 @@
 # supplementary-Rhamnaceae
-This repository contains supplementary materials relating to the manuscript "Digitizing the chemoevolution of plant specialized metabolites using mass spectrometry".
+This repository contains supplementary materials relating to the manuscript "Comprehensive mass spectrometry‐guided phenotyping of plant specialized metabolites reveals metabolic diversity in the cosmopolitan plant family Rhamnaceae".
+
+The data analysis workflow described in this paper is now available through a [MolNetEhnacer module in GNPS web platform](https://gnps.ucsd.edu/ProteoSAFe/index.jsp?params=%7B%22workflow%22:%22MOLNETENHANCER%22%7D). Relevant information can be found in [Metabolites 2019, 9, 144](https://doi.org/10.3390/metabo9070144).
 
 # Citation
 
-A DOI will be provided upon manuscript publication.
+Kyo Bin Kang, Madeleine Ernst, Justin J. J. van der Hooft, Ricardo R. da Silva, Junha Park, Marnix H. Medema, Sang Hyun Sung, Pieter C. Dorrestein. Comprehensive mass spectrometry‐guided phenotyping of plant specialized metabolites reveals metabolic diversity in the cosmopolitan plant family Rhamnaceae. Plant J 2019, 98, 1134-1144. 
 
 # Jupyter notebooks
 
