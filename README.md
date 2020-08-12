@@ -5,7 +5,7 @@ The data analysis workflow described in this paper is now available through a [M
 
 # Citation
 
-Kyo Bin Kang, Madeleine Ernst, Justin J. J. van der Hooft, Ricardo R. da Silva, Junha Park, Marnix H. Medema, Sang Hyun Sung, Pieter C. Dorrestein. Comprehensive mass spectrometry‐guided phenotyping of plant specialized metabolites reveals metabolic diversity in the cosmopolitan plant family Rhamnaceae. Plant J 2019, 98, 1134-1144. 
+[Kyo Bin Kang, Madeleine Ernst, Justin J. J. van der Hooft, Ricardo R. da Silva, Junha Park, Marnix H. Medema, Sang Hyun Sung, Pieter C. Dorrestein. Comprehensive mass spectrometry‐guided phenotyping of plant specialized metabolites reveals metabolic diversity in the cosmopolitan plant family Rhamnaceae. Plant J 2019, 98, 1134-1144](https://doi.org/10.1111/tpj.14292). 
 
 # Jupyter notebooks
 
